@@ -137,7 +137,7 @@ This project follows a structured, incremental development approach to ensure a 
      - **Video:** [React State Guide](https://www.youtube.com/watch?v=35lXWvCuM8o)  
   2. Optimize the layout for mobile and desktop screens.  
      - **Reading:** [Tailwind Responsive Design](https://tailwindcss.com/docs/responsive-design)  
-     - **Video:** [Responsive Design Tutorial](https://www.youtube.com/watch?v=qkAHwCFnrP4)  
+     - **Video:** [Responsive Design Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&t=27s)  
 - **Deliverables:**  
   - Functional filters and an optimized UI.
 
@@ -151,7 +151,7 @@ This project follows a structured, incremental development approach to ensure a 
      - **Video:** [Docker Tutorial](https://www.youtube.com/watch?v=pTFZFxd4hOI)  
   2. Deploy to Hostinger VPS.  
      - **Reading:** [Hostinger Deployment Guide](https://www.hostinger.com/tutorials/)  
-     - **Video:** [VPS Deployment](https://www.youtube.com/watch?v=6HZV6rzylFg)  
+     - **Video:** [VPS Deployment](https://www.youtube.com/watch?v=SfHsm2hQEJ0)  
 - **Deliverables:**  
   - Fully deployed car selling and buying website.
 
